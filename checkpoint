@@ -1,2 +1,2 @@
-model_checkpoint_path: "model_3d_Fin2.ckpt"
-all_model_checkpoint_paths: "model_3d_Fin2.ckpt"
+model_checkpoint_path: "signalPredictModel.ckpt"
+all_model_checkpoint_paths: "signalPredictModel.ckpt"
